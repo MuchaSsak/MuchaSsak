@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mucha!
+- 👀 I’m interested in programming, photo/video editing and a tiny bit of psychology as well.
+- 🌱 I’m currently learning frontend development.
+- 🧠 Already know HTML, CSS, TailwindCSS, JavaScript, Adobe Photoshop, Adobe Premiere Pro.
+- 📫 Contact me on Discord - Mucha#8047
