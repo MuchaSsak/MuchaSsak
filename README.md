@@ -25,19 +25,19 @@ I pursue self-improvement, especially communication skills and teamwork capabili
 # Languages, frameworks, libraries and tools 👨‍💻
 
 > ### Main frontend tech stack:
-[![My Skills](https://skillicons.dev/icons?i=ts,react,tailwind,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,tailwind)](https://skillicons.dev)
 
 > ### Main backend tech stack:
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,nodejs,supabase)](https://skillicons.dev)
 
 > ### Also worked/working with:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,electron)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,redux,express,electron)](https://skillicons.dev)
 
 > ### Tools I use on a daily basis:
-[![My Skills](https://skillicons.dev/icons?i=ps,pr,ai,git,vscode,vite,stackoverflow,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,pr,ai,git,vscode,stackoverflow,bash)](https://skillicons.dev)
 
 > ### Deployment solutions:
-[![My Skills](https://skillicons.dev/icons?i=github,vercel,replit,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vercel,github,replit,linux)](https://skillicons.dev)
 
 <img src="./assets/seperator.gif">
 
