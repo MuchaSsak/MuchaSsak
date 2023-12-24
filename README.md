@@ -15,10 +15,10 @@ I pursue self-improvement, especially communication skills and teamwork capabili
 - `English 🇬🇧`
 - `Timezone: GMT + 1 🕦`
 
-### Completed courses:
-- The Ultimate React Course 2023: React, Redux & More by Jonas Schmedtmann on Udemy.com **(IN PROGRESS)** 🚀
-- The Complete JavaScript Course 2023: From Zero to Expert! by Jonas Schmedtmann on Udemy.com
-- Comptia A+ Core 1 (220-1101) Complete Course & Practice Exam by Jason Dion on Udemy.com
+### Completed Udemy.com courses:
+- The Ultimate React Course 2023: React, Redux & More by Jonas Schmedtmann **(IN PROGRESS)** 🚀 *(67 video hours)*
+- The Complete JavaScript Course 2023: From Zero to Expert! by Jonas Schmedtmann *(68.5 video hours)*
+- Comptia A+ Core 1 (220-1101) Complete Course & Practice Exam by Jason Dion *(25.5 video hours)*
 
 <img src="./assets/seperator.gif">
 
@@ -31,7 +31,7 @@ I pursue self-improvement, especially communication skills and teamwork capabili
 [![My Skills](https://skillicons.dev/icons?i=nextjs,nodejs,supabase)](https://skillicons.dev)
 
 > ### Also worked/working with:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,redux,express,electron)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,styledcomponents,redux,express,electron)](https://skillicons.dev)
 
 > ### Tools I use on a daily basis:
 [![My Skills](https://skillicons.dev/icons?i=ps,pr,ai,git,vscode,stackoverflow,bash)](https://skillicons.dev)
