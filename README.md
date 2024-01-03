@@ -31,10 +31,10 @@ I pursue self-improvement, especially communication skills and teamwork capabili
 [![My Skills](https://skillicons.dev/icons?i=nextjs,nodejs,supabase)](https://skillicons.dev)
 
 > ### Also worked/working with:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,styledcomponents,redux,express,electron)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,sass,styledcomponents,redux,express,electron)](https://skillicons.dev)
 
-> ### Tools I use on a daily basis:
-[![My Skills](https://skillicons.dev/icons?i=ps,pr,ai,git,vscode,stackoverflow,bash)](https://skillicons.dev)
+> ### Tools I use:
+[![My Skills](https://skillicons.dev/icons?i=ps,pr,ai,vscode,stackoverflow,bash)](https://skillicons.dev)
 
 > ### Deployment solutions:
 [![My Skills](https://skillicons.dev/icons?i=vercel,github,replit,linux)](https://skillicons.dev)
