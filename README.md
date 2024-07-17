@@ -29,6 +29,6 @@ I pursue self-improvement, especially communication skills and teamwork capabili
 
 # Contact me 📞
 - Linkedin: **<a href="https://www.linkedin.com/in/mateusz-muszarski-b1168a28a?utm_source=share">Mateusz Muszarski</a>**
-- Email: **kontakt@muszarski.pl**
+- Email: **mat.muszarski@gmail.com**
 
 ![Snake Commits](https://raw.githubusercontent.com/KntMods/KntMods/output/github-contribution-grid-snake-dark.svg)
