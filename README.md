@@ -17,11 +17,11 @@ I pursue self-improvement, especially in communication skills and teamwork capab
 
 # Languages, frameworks, libraries and tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="35" height="35" />
 
-> ### Main full tech stack:
-[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,supabase)](https://skillicons.dev)
+> ### Main technologies:
+[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,threejs,react,tailwind,supabase)](https://skillicons.dev)
 
 > ### Also worked/working with:
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,sass,styledcomponents,redux,express,php,electron,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,sass,styledcomponents,redux,angular,python,express,php,electron,nodejs,blender&perline=7)](https://skillicons.dev)
 
 <img src="./assets/seperator.gif">
 
