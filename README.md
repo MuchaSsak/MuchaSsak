@@ -38,7 +38,7 @@ I pursue self-improvement, especially in communication skills and teamwork capab
 # Contact me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="35" height="35" />
 - ### Email: [mat.muszarski@gmail.com](mailto:mat.muszarski@gmail.com)
 - ### Linkedin: [Mateusz Muszarski](https://www.linkedin.com/in/mateusz-muszarski-b1168a28a?utm_source=share)
-- ### Portfolio: [Muszarski.pl](https://muszarski.pl)
+- ### Portfolio: [www.muszarski.space](https://muszarski.space)
 
 <picture>
   <source
