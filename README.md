@@ -35,8 +35,9 @@ I pursue self-improvement, especially in communication skills and teamwork capab
 - ### [The Complete JavaScript Course 2025: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) 💛&nbsp;&nbsp;&nbsp;(By [Jonas Schmedtmann](https://x.com/jonasschmedtman))
 - ### [CompTIA A+ Core 1 (220-1101) Complete Course & Practice Exam](https://www.udemy.com/course/comptia-a-core-1/) 🪛&nbsp;&nbsp;&nbsp;(By [Jason Dion](https://x.com/JasonDion))
 - ### [INF.03 - Building and administrating websites and web applications with databases](https://cke.gov.pl/images/_EGZAMIN_ZAWODOWY/Formula_2019/Informatory/technik_informatyk.pdf) 💻&nbsp;&nbsp;&nbsp;(By [CKE](https://cke.gov.pl))
-- ### [Digital Youth Work Methods in Saraiķi, Latvia](./Digital_Youth_Work_Methods_in_Saraiķi_Latvia.pdf) 🎮&nbsp;&nbsp;&nbsp;(By [Andris Kāposts](https://www.youpluss.lv/lv/mentors/102-andris-kaposts))
-- ### [Developing Infrastructure to Work with Youth in Daugirdiškės, Lithuania](./Developing_Infrastructure_to_Work_with_Youth_in_Daugirdiškės_Lithuania.pdf) 🏠&nbsp;&nbsp;&nbsp;(By [Nerijus Miginis](https://www.linkedin.com/in/nerijusmiginis/?originalSubdomain=lt))
+- ### [Digital Youth Work Methods in Saraiķi, Latvia](./assets/Digital_Youth_Work_Methods_in_Saraiķi_Latvia.pdf) 🎮&nbsp;&nbsp;&nbsp;(By [Andris Kāposts](https://www.youpluss.lv/lv/mentors/102-andris-kaposts))
+- ### [Developing Infrastructure to Work with Youth in Daugirdiškės, Lithuania](./assets/Developing_Infrastructure_to_Work_with_Youth_in_Daugirdiškės_Lithuania.pdf) 🏠&nbsp;&nbsp;&nbsp;(By [Nerijus Miginis](https://www.linkedin.com/in/nerijusmiginis/?originalSubdomain=lt))
+- ### [Alternative Participation of Rural Youth in Bakuriani, Georgia](./assets/Developing_Infrastructure_to_Work_with_Youth_in_Daugirdiškės_Lithuania.pdf) 📢&nbsp;&nbsp;&nbsp;(By [Slava Mezhdoyan](https://www.linkedin.com/in/slava-mezhdoyan-93265a27/?originalSubdomain=ge))
 
 <img src="./assets/seperator.gif">
 
