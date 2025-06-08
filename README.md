@@ -1,16 +1,19 @@
-# Hi, I'm Matthew! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
+# Hi, I'm Matt! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
 ### *But my real name is Mateusz Muszarski*&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25"  />
 
 <img src="./assets/seperator.gif">
 
 # About me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Red%20Question%20Mark.png" alt="Red Question Mark" width="35" height="35" />
-I'm passionate about programming and computer science. My main focus is fullstack & creative web development. I've learnt my skills mainly by studying from online courses and building projects. However, I'm also currently a programming-technician in my technical college. My coding journey began in 2022, but I was learning the fundamentals in other fields like 3D modelling, graphic design or photo/video editing sooner. 🌐
+I originate from Poland and I'm passionate about programming and computer science. My main focus is fullstack & creative web development. I've learnt my skills mainly by studying from online courses and building projects. However, I'm also currently a programming-technician in my technical college. My coding journey began in 2022, but I also learnt the fundamentals in other fields like 3D modelling, graphic design or photo/video editing sooner. 🌐
+
+Outside of IT, I have plenty of other hobbies such as working out, travelling, taking beautiful pictures, watching films or swimming ⭐
 
 I pursue self-improvement, especially in communication skills and teamwork capabilities ✌️ 
 
 ### Communication:
-- `Polish 🇵🇱`
-- `English 🇬🇧`
+- `Polish (Native) 🇵🇱`
+- `English (Fluent) 🇬🇧`
+- `Spanish (Beginner) 🇪🇸`
 - `Timezone: GMT + 1 🕦`
 
 <img src="./assets/seperator.gif">
@@ -32,6 +35,8 @@ I pursue self-improvement, especially in communication skills and teamwork capab
 - ### [The Complete JavaScript Course 2025: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) 💛&nbsp;&nbsp;&nbsp;(By [Jonas Schmedtmann](https://x.com/jonasschmedtman))
 - ### [CompTIA A+ Core 1 (220-1101) Complete Course & Practice Exam](https://www.udemy.com/course/comptia-a-core-1/) 🪛&nbsp;&nbsp;&nbsp;(By [Jason Dion](https://x.com/JasonDion))
 - ### [INF.03 - Building and administrating websites and web applications with databases](https://cke.gov.pl/images/_EGZAMIN_ZAWODOWY/Formula_2019/Informatory/technik_informatyk.pdf) 💻&nbsp;&nbsp;&nbsp;(By [CKE](https://cke.gov.pl))
+- ### [Digital Youth Work Methods in Saraiķi, Latvia](./Digital_Youth_Work_Methods_in_Saraiķi_Latvia.pdf) 🎮&nbsp;&nbsp;&nbsp;(By [Andris Kāposts](https://www.youpluss.lv/lv/mentors/102-andris-kaposts))
+- ### [Developing Infrastructure to Work with Youth in Daugirdiškės, Lithuania](./Developing_Infrastructure_to_Work_with_Youth_in_Daugirdiškės_Lithuania.pdf) 🏠&nbsp;&nbsp;&nbsp;(By [Nerijus Miginis](https://www.linkedin.com/in/nerijusmiginis/?originalSubdomain=lt))
 
 <img src="./assets/seperator.gif">
 
