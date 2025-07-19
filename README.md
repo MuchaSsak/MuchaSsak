@@ -10,7 +10,7 @@ I'm originally from Poland and I have a strong passion for programming as well a
 
 I began my coding journey in 2022, however my interest in digital creativity started earlier — I explored areas such as 3D modelling, graphic design, photo & video editing. 🎨
 
-Beyond technology, I enjoy a range of other activites including working out, traveling, photography, swimming, and many more! ✨
+Beyond technology, I enjoy a range of other activities including working out, traveling, photography, swimming, and many more! ✨
 
 ### Communication:
 
