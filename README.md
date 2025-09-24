@@ -16,7 +16,6 @@ Beyond technology, I enjoy a range of other activities including working out, tr
 
 - `Polish (Native) 🇵🇱`
 - `English (Fluent) 🇬🇧`
-- `Ukrainian (Beginner) 🇺🇦`
 - `Timezone: GMT + 1 🕦`
 
 <img src="./assets/seperator.gif">
@@ -69,4 +68,5 @@ Beyond technology, I enjoy a range of other activities including working out, tr
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
 
