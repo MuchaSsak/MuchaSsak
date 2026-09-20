@@ -36,9 +36,6 @@ Beyond technology, I enjoy a range of other activities including working out, tr
 
 - ### [Three.js Journey — Learn WebGL with Three.js](https://threejs-journey.com/) 3️⃣&nbsp;&nbsp;&nbsp;(By [Bruno Simon](https://x.com/bruno_simon))
 - ### [The Ultimate React Course 2024: React, Next.js, Redux & More](https://www.udemy.com/course/the-ultimate-react-course/learn/lecture/38038208?start=0#overview) ⚛️&nbsp;&nbsp;&nbsp;(By [Jonas Schmedtmann](https://x.com/jonasschmedtman))
-- ### [The Complete JavaScript Course 2025: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) 💛&nbsp;&nbsp;&nbsp;(By [Jonas Schmedtmann](https://x.com/jonasschmedtman))
-- ### [Complete Blender Megacourse - Beginner to Expert](https://www.udemy.com/course/complete-blender-megacourse-beginner-to-expert/) 🎥&nbsp;&nbsp;&nbsp;(By [Creativity Unleashed](https://www.udemy.com/user/creativity-unleashed/))
-- ### [CompTIA A+ Core 1 (220-1101) Complete Course & Practice Exam](https://www.udemy.com/course/comptia-a-core-1/) 🪛&nbsp;&nbsp;&nbsp;(By [Jason Dion](https://x.com/JasonDion))
 - ### [INF.03 - Building and administrating websites and web applications with databases](https://cke.gov.pl/images/_EGZAMIN_ZAWODOWY/Formula_2019/Informatory/technik_informatyk.pdf) 💻&nbsp;&nbsp;&nbsp;(By [CKE](https://cke.gov.pl))
 - ### [Digital Youth Work Methods in Saraiķi, Latvia](./assets/Digital_Youth_Work_Methods_in_Saraiķi_Latvia.pdf) 🎮&nbsp;&nbsp;&nbsp;(By [Andris Kāposts](https://www.youpluss.lv/lv/mentors/102-andris-kaposts))
 - ### [Youth Entrepreneurship in Palanga, Lithuania](./assets/Developing_Infrastructure_to_Work_with_Youth_in_Daugirdiškės_Lithuania.pdf) 💸&nbsp;&nbsp;&nbsp;(By [Nerijus Miginis](https://www.linkedin.com/in/nerijusmiginis/?originalSubdomain=lt))
