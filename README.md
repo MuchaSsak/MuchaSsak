@@ -48,7 +48,7 @@ Beyond technology, I enjoy a range of other activities including working out, tr
 
 - ### Email: [mat.muszarski@gmail.com ✉️](mailto:mat.muszarski@gmail.com)
 - ### Linkedin: [Mateusz Muszarski 🔗](https://www.linkedin.com/in/mateusz-muszarski-b1168a28a?utm_source=share)
-- ### Portfolio: [www.muszarski.space 🚀](https://muszarski.space)
+- ### Portfolio: [www.muszarski.space 🚀](https://matmuszarski.space)
 - ### CV / Résumé: [PDF file 🗃️](./assets/Mateusz_Muszarski_Résumé.pdf)
 
 <picture>
